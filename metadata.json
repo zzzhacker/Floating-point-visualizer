@@ -1,0 +1,5 @@
+{
+  "name": "Floating Point Visualizer",
+  "description": "An interactive web application that visually explains the structure and calculation of 32-bit single-precision floating-point numbers (IEEE 754).",
+  "requestFramePermissions": []
+}
